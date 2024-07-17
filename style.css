@@ -251,12 +251,12 @@ img {
     background: #000000;
 }
 
-.header .nav a {
+.nav, .nav a {
     color: #FFFFFF;
 }
 
 .nav {
-    height: 128px;
+    padding: 40px 0px;
 }
 
 .banner {
@@ -382,4 +382,5 @@ img {
     background: #000000;
     color: #FFFFFF;
     padding: 40px 0px;
+    text-align: center;
 }
